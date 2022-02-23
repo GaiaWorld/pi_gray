@@ -1,0 +1,7 @@
+[package]
+name = "pi_gray"
+version = "0.1.0"
+authors = ["vmos <vmos@fairblock.io>"]
+
+[dependencies]
+fnv = "1.0.6"

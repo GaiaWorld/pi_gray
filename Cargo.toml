@@ -1,7 +1,12 @@
 [package]
 name = "pi_gray"
 version = "0.1.0"
-authors = ["vmos <vmos@fairblock.io>"]
+authors = ["luob <luob@gmail.com>"]
+edition = "2021"
+description = "Gray"
+repository = "https://github.com/GaiaWorld/pi_gray.git"
+license = "MIT OR Apache-2.0"
+keywords = ["pi", "gray"]
 
 [dependencies]
 fnv = "1.0.6"
